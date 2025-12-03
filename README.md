@@ -5,6 +5,10 @@ This project includes dynamic charts, real‑time stats, a smooth UI, and a buil
 
 ---
 
+## Live Demo
+
+**https://sherin-live-data-dashboard.netlify.app/**
+
 ## Project Overview
 
 This enhanced dashboard provides:
@@ -51,27 +55,6 @@ LiveData-Dashboard/
 ├── script.js        # Dynamic charts & auto stats updates
 └── README.md        # Documentation
 ```
-
----
-
-## Getting Started
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/Sherin-Farjana/LiveData-Dashboard.git
-```
-
-### 2️⃣ Navigate into the project folder
-
-```bash
-cd LiveData-Dashboard
-```
-
-### 3️⃣ Run the project
-
-Simply open `index.html` in your browser.  
-For best experience, use **Live Server** in VS Code.
 
 ---
 
